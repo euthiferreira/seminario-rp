@@ -1,2 +1,1 @@
-"# seminario-rp" 
-"# seminario-rp" 
+Esse link eu vou manter atualizado com as informações que a gente for montando referente ao seminário de resolução de problemas
